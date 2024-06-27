@@ -1,6 +1,6 @@
 {
-   "owner": "6285793589243",
-   "owner_name": "Iyuzaki Yanagi",
+   "owner": "6282310472935",
+   "owner_name": "Nouh Store",
    "database": "data",
    "limit": 15,
    "ram_limit": "900mb",
@@ -16,7 +16,7 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 62857035017442
+      "number": 6282310472935
    },
    "replit_url": ""
 }
